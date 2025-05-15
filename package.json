@@ -1,5 +1,5 @@
 {
-  "name": "@gorhom/bottom-sheet",
+  "name": "@contagt/bottom-sheet",
   "version": "5.0.6",
   "description": "A performant interactive bottom sheet with fully configurable options 🚀",
   "main": "lib/commonjs/index",
